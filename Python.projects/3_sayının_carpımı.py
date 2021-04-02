@@ -1,0 +1,5 @@
+a= int(input("1 sayı gir : "))
+b= int(input("1 sayı gir : "))
+c= int(input("1 sayı gir : "))
+carpim=(a*b*c)
+print("sayıların carpımı :{}".format(carpim))
